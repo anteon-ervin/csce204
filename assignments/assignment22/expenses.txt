@@ -1,0 +1,5 @@
+Cell Phone: $123.23
+House: $500.32
+Car:$102.12
+Food: $121.02
+Total: $846.69
